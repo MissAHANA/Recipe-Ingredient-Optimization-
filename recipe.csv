@@ -1,0 +1,401 @@
+RecipeId,Name,Ingredients,Calories,FatContent,ProteinContent,CarbohydrateContent,RecipeServings,Rating
+1,Creamy Salad,"['soy sauce', 'grapes', 'cucumber', 'spices', 'bell pepper']",574,3.3,5.8,27.8,2,4.6
+2,Zesty Pasta,"['potato', 'peas', 'paneer', 'oats', 'egg', 'cashew']",276,11.8,12.9,43.1,4,4.2
+3,Fresh Soup,"['fish', 'potato', 'avocado', 'chili', 'corn']",539,15.6,22.4,20.5,4,3.7
+4,Creamy Bowl,"['chili', 'grapes', 'corn']",581,27.2,15.1,55.4,3,4.3
+5,Creamy Casserole,"['broccoli', 'strawberry', 'zucchini']",496,6.2,17.6,76.3,1,3.8
+6,Savory Salad,"['grapes', 'broccoli', 'beans', 'oats', 'bell pepper', 'potato']",351,24.3,16.6,32.3,3,3.6
+7,Spicy Curry,"['cream', 'bread', 'milk', 'egg', 'tomato', 'carrot']",400,29.5,20.5,9.1,4,4.0
+8,Fresh Pasta,"['bread', 'bell pepper', 'orange', 'cashew', 'soy sauce']",222,28.7,25.1,21.7,2,4.9
+9,Spicy Bowl,"['lemon', 'potato', 'egg']",445,3.0,3.4,39.1,4,4.8
+10,Fresh Bowl,"['egg', 'onion', 'soy sauce', 'cucumber', 'chicken']",473,14.5,12.5,47.0,3,4.2
+11,Savory Pasta,"['bread', 'tofu', 'spinach', 'zucchini', 'butter', 'bell pepper']",287,9.2,7.5,51.5,3,4.8
+12,Crispy Casserole,"['tofu', 'lettuce', 'grapes', 'yogurt', 'garlic', 'orange']",471,25.5,25.1,40.5,4,4.9
+13,Zesty Salad,"['bell pepper', 'onion', 'fish', 'pasta', 'peas', 'banana']",362,10.5,28.4,54.3,4,4.3
+14,Grilled Toast,"['honey', 'yogurt', 'chicken', 'bread']",342,17.0,3.5,58.7,1,3.7
+15,Tangy Stir Fry,"['avocado', 'onion', 'lemon']",381,1.2,35.8,13.6,2,4.9
+16,Grilled Pasta,"['almonds', 'ginger', 'bell pepper']",188,6.8,14.6,61.9,4,4.3
+17,Tangy Curry,"['cucumber', 'grapes', 'bread', 'strawberry', 'banana']",474,17.4,11.0,21.6,2,4.4
+18,Creamy Toast,"['yogurt', 'ginger', 'olive oil', 'spinach', 'peas', 'cucumber']",556,9.8,30.3,30.6,2,4.2
+19,Creamy Smoothie,"['mushroom', 'grapes', 'bread', 'milk']",600,19.1,37.0,67.2,1,4.6
+20,Tangy Casserole,"['chicken', 'orange', 'honey', 'beans', 'cashew']",543,14.5,36.1,77.3,3,4.8
+21,Zesty Salad,"['ginger', 'cheese', 'spices', 'strawberry', 'cream', 'milk']",197,18.2,2.8,26.9,2,4.2
+22,Crispy Bowl,"['lemon', 'egg', 'spinach', 'banana', 'corn', 'olive oil']",356,15.3,33.1,44.1,2,4.5
+23,Creamy Toast,"['bread', 'paneer', 'egg', 'strawberry']",413,23.4,13.5,57.7,2,4.3
+24,Creamy Bowl,"['olive oil', 'cashew', 'almonds', 'ginger', 'bell pepper', 'paneer']",533,6.7,12.7,8.4,2,4.9
+25,Zesty Casserole,"['cucumber', 'beans', 'milk', 'tomato']",292,27.1,20.7,17.3,3,4.2
+26,Tangy Casserole,"['tomato', 'zucchini', 'lemon', 'chicken', 'ginger', 'bread']",505,23.1,28.5,15.5,1,3.8
+27,Fresh Curry,"['mushroom', 'strawberry', 'apple', 'milk']",599,8.1,5.7,58.8,2,3.6
+28,Spicy Pasta,"['almonds', 'potato', 'milk', 'spices', 'olive oil', 'egg']",338,1.2,35.0,59.1,4,4.0
+29,Zesty Curry,"['spices', 'paneer', 'rice', 'mushroom', 'banana', 'orange']",382,12.9,7.1,13.0,3,4.1
+30,Fresh Curry,"['potato', 'oats', 'tomato', 'pasta']",399,7.8,39.0,50.8,1,3.7
+31,Savory Stir Fry,"['cheese', 'carrot', 'honey']",317,11.0,18.8,19.1,4,3.5
+32,Crispy Smoothie,"['paneer', 'egg', 'tofu']",447,25.3,33.4,74.8,4,4.3
+33,Grilled Smoothie,"['cream', 'butter', 'oats', 'ginger', 'banana']",151,26.4,12.2,34.5,4,4.6
+34,Tangy Pasta,"['corn', 'broccoli', 'carrot', 'cashew', 'potato', 'olive oil']",594,28.6,17.8,39.3,2,3.7
+35,Zesty Curry,"['bell pepper', 'beans', 'ginger', 'avocado']",546,1.0,26.5,63.6,2,3.9
+36,Grilled Bowl,"['pasta', 'apple', 'lemon', 'cashew', 'chicken', 'almonds']",583,20.1,9.1,58.8,4,4.3
+37,Fresh Soup,"['chili', 'spices', 'carrot', 'mushroom', 'cheese']",525,25.6,10.0,13.1,1,4.5
+38,Crispy Toast,"['beans', 'honey', 'pasta', 'oats', 'apple']",197,22.1,33.3,36.1,2,4.2
+39,Zesty Bowl,"['honey', 'spinach', 'olive oil', 'strawberry', 'tomato', 'banana']",524,4.0,30.2,74.5,1,4.6
+40,Fresh Smoothie,"['corn', 'cream', 'chili', 'orange', 'pasta', 'fish']",384,16.4,30.9,67.8,2,3.9
+41,Spicy Pasta,"['grapes', 'chicken', 'corn', 'tofu', 'peas', 'bell pepper']",475,7.9,35.0,49.2,2,4.6
+42,Spicy Smoothie,"['avocado', 'peas', 'cream', 'pasta', 'spinach']",490,15.3,33.2,62.9,2,4.7
+43,Savory Stir Fry,"['chili', 'cashew', 'garlic', 'pasta', 'tomato']",507,2.7,21.6,38.8,1,4.4
+44,Creamy Pasta,"['honey', 'cheese', 'paneer']",333,29.9,8.0,54.4,2,4.7
+45,Tangy Pasta,"['garlic', 'potato', 'orange', 'egg', 'bread']",585,21.6,13.8,76.7,1,4.3
+46,Crispy Toast,"['spinach', 'garlic', 'spices', 'butter']",182,3.7,21.3,15.1,2,3.8
+47,Crispy Soup,"['carrot', 'apple', 'strawberry', 'orange', 'milk']",557,27.7,7.2,42.4,3,4.8
+48,Zesty Soup,"['lemon', 'mushroom', 'ginger']",423,27.0,34.3,44.8,2,4.2
+49,Fresh Bowl,"['chili', 'soy sauce', 'yogurt', 'butter']",353,16.1,35.4,8.6,4,3.9
+50,Zesty Casserole,"['soy sauce', 'chicken', 'apple']",261,21.3,3.1,75.1,1,4.6
+51,Savory Casserole,"['lemon', 'butter', 'chili']",369,11.8,9.3,67.9,3,4.5
+52,Savory Smoothie,"['beans', 'olive oil', 'pasta', 'butter', 'tomato']",572,29.3,33.7,41.2,1,4.7
+53,Fresh Soup,"['strawberry', 'fish', 'rice', 'yogurt']",258,3.5,33.8,43.1,2,3.8
+54,Crispy Curry,"['rice', 'avocado', 'almonds', 'mushroom', 'pasta']",403,3.8,11.5,74.1,4,3.6
+55,Spicy Curry,"['honey', 'almonds', 'bread', 'onion', 'garlic', 'paneer']",287,4.9,19.3,18.3,4,4.4
+56,Grilled Soup,"['honey', 'bell pepper', 'onion']",315,24.8,36.9,48.4,4,4.3
+57,Savory Casserole,"['banana', 'spices', 'garlic']",574,3.2,28.8,59.8,2,4.7
+58,Creamy Toast,"['lemon', 'butter', 'spices', 'bread', 'beans', 'ginger']",295,17.5,12.4,14.6,2,4.4
+59,Savory Casserole,"['almonds', 'tomato', 'bell pepper', 'rice', 'bread', 'grapes']",322,13.6,33.3,34.1,4,4.5
+60,Crispy Bowl,"['butter', 'lettuce', 'cheese']",430,29.0,21.2,50.0,2,3.9
+61,Zesty Bowl,"['banana', 'butter', 'tomato', 'cashew', 'spices', 'cream']",445,7.9,26.1,71.2,2,4.5
+62,Spicy Curry,"['soy sauce', 'grapes', 'spinach']",216,8.6,6.7,42.8,3,4.3
+63,Zesty Smoothie,"['lemon', 'potato', 'cashew']",439,10.1,3.2,33.8,2,3.9
+64,Creamy Stir Fry,"['almonds', 'pasta', 'peas', 'fish']",586,24.2,16.2,78.5,3,3.8
+65,Savory Soup,"['milk', 'banana', 'garlic']",398,21.3,24.6,73.7,4,3.6
+66,Crispy Salad,"['mushroom', 'yogurt', 'lettuce', 'beans']",553,22.3,8.7,62.2,1,3.7
+67,Zesty Bowl,"['avocado', 'milk', 'ginger', 'peas']",325,10.2,35.1,25.5,2,3.7
+68,Grilled Bowl,"['grapes', 'ginger', 'garlic']",499,8.9,24.3,77.3,4,4.2
+69,Creamy Stir Fry,"['broccoli', 'onion', 'cashew', 'fish', 'garlic']",540,3.2,15.3,77.8,4,4.2
+70,Fresh Soup,"['cream', 'banana', 'beans']",174,6.9,8.2,39.0,2,4.6
+71,Tangy Soup,"['fish', 'broccoli', 'apple', 'tofu', 'garlic']",173,23.6,36.0,15.0,1,4.2
+72,Spicy Casserole,"['zucchini', 'onion', 'mushroom', 'strawberry', 'cheese', 'butter']",200,18.0,30.5,36.0,1,4.0
+73,Tangy Wrap,"['cheese', 'cucumber', 'avocado']",470,5.5,28.2,57.5,2,3.7
+74,Spicy Curry,"['cashew', 'zucchini', 'honey']",551,5.8,12.8,61.1,4,5.0
+75,Tangy Stir Fry,"['almonds', 'fish', 'tofu', 'strawberry', 'soy sauce', 'oats']",578,14.5,16.7,27.4,2,3.5
+76,Fresh Salad,"['bell pepper', 'cheese', 'mushroom']",385,12.8,8.2,57.6,1,5.0
+77,Fresh Casserole,"['egg', 'peas', 'ginger']",158,16.5,23.7,69.6,2,3.9
+78,Creamy Curry,"['garlic', 'grapes', 'rice']",213,29.0,38.7,58.4,4,3.7
+79,Crispy Curry,"['olive oil', 'peas', 'zucchini', 'orange', 'lemon']",589,7.0,34.6,75.2,1,4.2
+80,Grilled Soup,"['tomato', 'onion', 'almonds', 'yogurt', 'lettuce', 'oats']",230,9.9,26.6,52.4,1,3.5
+81,Crispy Bowl,"['avocado', 'bread', 'milk', 'lemon', 'soy sauce', 'cashew']",375,8.7,27.8,20.1,1,3.6
+82,Grilled Stir Fry,"['egg', 'oats', 'cashew']",383,4.5,12.2,51.8,4,3.5
+83,Savory Pasta,"['butter', 'ginger', 'chili', 'strawberry', 'mushroom']",150,5.6,17.6,26.8,2,3.8
+84,Fresh Stir Fry,"['potato', 'oats', 'tomato']",369,20.9,2.8,30.9,1,4.1
+85,Savory Smoothie,"['garlic', 'yogurt', 'tofu', 'beans', 'milk']",253,25.0,31.7,55.4,4,4.7
+86,Crispy Bowl,"['bread', 'cream', 'cashew']",502,21.2,31.2,78.6,4,4.2
+87,Crispy Curry,"['tofu', 'orange', 'peas', 'honey', 'cream', 'tomato']",217,2.2,2.3,53.8,3,4.1
+88,Fresh Pasta,"['ginger', 'cashew', 'strawberry', 'avocado']",482,25.2,36.6,76.9,1,4.5
+89,Creamy Smoothie,"['cream', 'yogurt', 'butter']",304,10.5,26.6,42.8,4,3.5
+90,Spicy Casserole,"['grapes', 'corn', 'avocado']",231,3.6,24.8,57.1,2,3.6
+91,Fresh Casserole,"['yogurt', 'rice', 'cashew', 'chili', 'fish', 'peas']",597,8.2,2.3,29.2,4,4.6
+92,Fresh Salad,"['fish', 'broccoli', 'grapes', 'honey', 'milk']",598,11.3,11.6,13.7,4,3.7
+93,Creamy Salad,"['chicken', 'broccoli', 'ginger', 'corn', 'cashew']",290,15.9,32.6,31.4,3,3.9
+94,Fresh Curry,"['mushroom', 'ginger', 'pasta', 'fish', 'potato', 'zucchini']",197,20.6,13.6,41.0,1,4.1
+95,Spicy Smoothie,"['olive oil', 'bread', 'lemon', 'milk']",485,8.5,38.7,47.8,4,4.3
+96,Creamy Bowl,"['butter', 'honey', 'egg', 'corn']",334,29.7,26.4,55.0,2,3.8
+97,Fresh Stir Fry,"['tofu', 'ginger', 'carrot']",278,1.9,18.1,36.3,3,4.8
+98,Crispy Pasta,"['chili', 'potato', 'grapes']",192,12.7,16.3,61.1,4,3.9
+99,Grilled Casserole,"['cashew', 'oats', 'bell pepper', 'peas', 'cheese', 'bread']",340,14.1,15.3,68.1,2,4.1
+100,Crispy Pasta,"['lettuce', 'cucumber', 'onion', 'cream', 'oats']",490,22.7,11.6,26.4,1,3.5
+101,Crispy Toast,"['orange', 'chili', 'beans']",482,8.2,19.7,68.5,3,5.0
+102,Fresh Curry,"['zucchini', 'cashew', 'honey', 'paneer', 'avocado', 'soy sauce']",234,14.4,27.7,65.6,4,4.6
+103,Creamy Toast,"['chicken', 'lettuce', 'honey']",176,24.3,33.3,44.2,3,4.1
+104,Tangy Toast,"['garlic', 'apple', 'orange', 'egg']",352,5.1,17.1,6.9,2,5.0
+105,Savory Wrap,"['chicken', 'bell pepper', 'oats']",470,1.3,5.9,15.9,1,3.9
+106,Spicy Curry,"['garlic', 'olive oil', 'spices', 'avocado']",306,25.1,21.4,55.3,1,5.0
+107,Spicy Toast,"['mushroom', 'soy sauce', 'paneer', 'oats', 'fish']",521,29.5,27.2,20.0,1,3.8
+108,Tangy Curry,"['mushroom', 'egg', 'corn', 'oats', 'almonds', 'soy sauce']",508,4.8,34.0,61.3,1,4.6
+109,Fresh Pasta,"['orange', 'onion', 'soy sauce', 'fish', 'egg', 'carrot']",536,24.9,16.2,17.1,4,3.6
+110,Fresh Bowl,"['butter', 'potato', 'oats', 'tomato', 'banana', 'almonds']",269,11.8,26.6,26.5,2,4.5
+111,Crispy Soup,"['zucchini', 'potato', 'soy sauce', 'honey', 'milk', 'avocado']",369,19.3,25.1,23.8,3,3.8
+112,Savory Soup,"['carrot', 'mushroom', 'cucumber', 'pasta', 'onion']",485,19.7,13.3,68.0,4,4.1
+113,Zesty Wrap,"['cream', 'almonds', 'ginger', 'banana']",196,17.9,6.1,56.8,3,4.9
+114,Fresh Curry,"['ginger', 'apple', 'spinach']",510,8.5,4.4,27.1,1,4.9
+115,Crispy Bowl,"['peas', 'ginger', 'almonds', 'mushroom']",198,24.6,39.6,61.5,2,3.7
+116,Creamy Salad,"['pasta', 'bell pepper', 'lemon', 'corn']",150,1.6,26.3,7.4,4,4.6
+117,Spicy Curry,"['chili', 'corn', 'almonds', 'pasta', 'rice', 'egg']",259,2.9,34.7,66.1,3,4.6
+118,Fresh Soup,"['ginger', 'cheese', 'mushroom', 'strawberry', 'pasta']",394,27.2,11.9,12.7,3,4.3
+119,Savory Wrap,"['grapes', 'beans', 'tofu', 'cream', 'cucumber']",189,13.9,29.0,70.1,4,3.7
+120,Crispy Pasta,"['honey', 'lemon', 'cheese']",217,4.7,35.9,60.5,3,4.2
+121,Savory Salad,"['tofu', 'butter', 'orange']",453,27.2,13.4,69.9,3,3.9
+122,Grilled Toast,"['almonds', 'potato', 'rice']",265,25.1,7.7,60.7,4,4.0
+123,Spicy Toast,"['lemon', 'beans', 'yogurt', 'paneer', 'cheese', 'corn']",415,10.6,31.1,47.1,2,3.6
+124,Zesty Wrap,"['egg', 'peas', 'strawberry', 'cucumber']",498,2.2,36.2,22.8,4,4.5
+125,Zesty Toast,"['tofu', 'cheese', 'tomato', 'milk']",377,14.4,32.6,63.8,4,5.0
+126,Crispy Soup,"['cucumber', 'almonds', 'broccoli']",154,5.9,32.5,64.9,2,3.9
+127,Fresh Stir Fry,"['banana', 'cheese', 'zucchini']",154,17.6,24.8,26.6,3,4.2
+128,Fresh Salad,"['butter', 'orange', 'olive oil', 'bread']",506,24.8,27.1,54.8,4,3.5
+129,Spicy Smoothie,"['chili', 'peas', 'tofu', 'pasta', 'almonds']",325,12.5,27.9,74.5,3,4.7
+130,Spicy Salad,"['mushroom', 'milk', 'tomato', 'yogurt', 'chili']",568,1.9,29.4,34.1,3,4.4
+131,Crispy Bowl,"['orange', 'apple', 'peas', 'ginger', 'milk', 'potato']",211,20.8,26.9,76.8,3,4.1
+132,Grilled Salad,"['cream', 'honey', 'almonds', 'cashew']",590,6.0,39.9,78.2,4,3.9
+133,Creamy Soup,"['garlic', 'peas', 'potato', 'honey', 'yogurt', 'olive oil']",366,7.2,11.9,28.4,2,5.0
+134,Creamy Casserole,"['garlic', 'cashew', 'chili', 'zucchini', 'potato']",505,6.4,17.9,46.4,1,4.4
+135,Creamy Pasta,"['cucumber', 'butter', 'fish', 'cashew', 'honey', 'broccoli']",217,9.1,16.8,6.0,2,4.5
+136,Savory Curry,"['milk', 'bell pepper', 'spinach', 'avocado']",394,26.6,3.3,23.9,4,4.5
+137,Fresh Casserole,"['ginger', 'mushroom', 'orange', 'tomato']",186,2.0,28.9,51.5,2,3.7
+138,Spicy Casserole,"['cashew', 'milk', 'rice']",267,19.0,23.7,63.6,1,4.7
+139,Creamy Toast,"['peas', 'olive oil', 'ginger', 'carrot']",346,8.1,9.2,70.3,2,3.9
+140,Tangy Stir Fry,"['rice', 'carrot', 'cheese', 'paneer']",195,9.6,29.6,67.2,4,4.2
+141,Fresh Smoothie,"['butter', 'banana', 'cheese', 'rice', 'orange', 'almonds']",524,12.9,10.4,73.4,3,4.5
+142,Fresh Stir Fry,"['spices', 'banana', 'honey', 'strawberry']",562,17.0,22.3,57.8,1,4.0
+143,Savory Soup,"['butter', 'chili', 'corn', 'cheese']",202,2.8,31.8,53.6,2,5.0
+144,Zesty Wrap,"['orange', 'olive oil', 'cucumber', 'zucchini', 'bread', 'carrot']",202,9.1,36.4,61.6,4,4.6
+145,Tangy Curry,"['peas', 'garlic', 'apple', 'tofu']",310,5.0,27.5,46.0,1,3.6
+146,Spicy Wrap,"['butter', 'yogurt', 'tomato', 'zucchini', 'onion', 'orange']",338,6.8,21.3,50.3,1,4.0
+147,Creamy Curry,"['carrot', 'grapes', 'cheese']",303,26.7,34.1,63.2,2,3.7
+148,Fresh Bowl,"['oats', 'potato', 'avocado', 'cheese']",220,16.2,33.9,77.3,4,4.3
+149,Zesty Soup,"['fish', 'bread', 'tofu', 'soy sauce', 'cucumber']",345,19.3,35.3,27.1,4,3.7
+150,Tangy Curry,"['banana', 'olive oil', 'potato', 'butter', 'avocado']",546,24.3,8.9,18.3,1,4.2
+151,Fresh Smoothie,"['egg', 'tomato', 'almonds']",566,24.1,5.7,56.2,1,4.0
+152,Zesty Soup,"['ginger', 'garlic', 'paneer', 'orange', 'strawberry']",535,29.7,6.9,19.0,3,4.3
+153,Crispy Bowl,"['strawberry', 'cheese', 'rice', 'chicken']",597,23.7,11.8,18.0,2,4.5
+154,Zesty Casserole,"['fish', 'apple', 'lettuce']",218,11.4,32.7,43.5,3,4.0
+155,Spicy Bowl,"['yogurt', 'peas', 'zucchini', 'oats']",478,16.8,31.0,33.3,1,4.8
+156,Zesty Curry,"['orange', 'banana', 'honey']",496,15.1,9.0,37.1,1,4.6
+157,Grilled Stir Fry,"['tofu', 'banana', 'bread']",223,27.5,27.8,46.7,4,3.5
+158,Creamy Curry,"['mushroom', 'onion', 'bell pepper', 'peas', 'spices', 'fish']",185,15.6,14.8,14.8,4,4.1
+159,Grilled Stir Fry,"['ginger', 'orange', 'oats', 'chicken']",421,12.3,5.4,48.8,3,4.6
+160,Zesty Casserole,"['banana', 'corn', 'bread', 'broccoli', 'cashew']",438,6.2,15.5,24.1,1,3.9
+161,Fresh Smoothie,"['zucchini', 'butter', 'mushroom']",154,10.2,30.3,29.8,2,3.6
+162,Fresh Stir Fry,"['olive oil', 'strawberry', 'paneer']",462,7.4,13.7,58.2,4,4.6
+163,Crispy Stir Fry,"['butter', 'apple', 'fish', 'cream', 'mushroom', 'pasta']",482,27.0,31.9,16.6,4,4.3
+164,Spicy Curry,"['cashew', 'pasta', 'tomato', 'beans']",234,23.6,14.6,16.5,1,4.3
+165,Savory Stir Fry,"['garlic', 'paneer', 'cream', 'spices', 'milk']",375,2.7,11.9,29.2,2,4.2
+166,Spicy Salad,"['chili', 'lemon', 'strawberry', 'pasta']",329,29.8,13.2,8.8,3,4.4
+167,Tangy Soup,"['garlic', 'mushroom', 'lemon', 'paneer']",519,16.4,34.3,74.9,2,4.3
+168,Zesty Soup,"['spinach', 'paneer', 'egg', 'honey', 'cucumber']",259,23.2,19.9,51.2,1,4.0
+169,Crispy Bowl,"['spices', 'strawberry', 'apple', 'paneer', 'spinach', 'orange']",471,30.0,34.9,54.6,2,4.2
+170,Savory Bowl,"['tofu', 'almonds', 'milk', 'grapes', 'onion']",533,29.2,24.2,41.8,2,4.8
+171,Spicy Curry,"['oats', 'soy sauce', 'cheese', 'olive oil', 'milk']",227,3.9,37.9,48.0,1,4.4
+172,Creamy Soup,"['bell pepper', 'butter', 'zucchini', 'grapes']",360,20.0,4.7,31.9,3,4.8
+173,Spicy Smoothie,"['oats', 'potato', 'peas']",465,8.7,35.8,63.8,2,3.7
+174,Grilled Toast,"['spices', 'orange', 'egg', 'tomato']",501,24.7,21.0,28.8,1,4.3
+175,Grilled Salad,"['egg', 'cashew', 'orange']",376,27.6,35.0,21.5,2,4.2
+176,Zesty Smoothie,"['cheese', 'peas', 'oats', 'carrot', 'cream']",590,2.6,16.5,18.8,1,4.7
+177,Spicy Smoothie,"['paneer', 'cream', 'rice', 'oats', 'grapes', 'tofu']",261,29.9,13.3,10.1,3,4.3
+178,Fresh Pasta,"['cashew', 'pasta', 'soy sauce']",194,7.4,4.1,42.9,4,4.2
+179,Creamy Smoothie,"['cucumber', 'chili', 'carrot', 'fish', 'ginger']",201,25.5,34.5,36.2,3,4.7
+180,Savory Casserole,"['paneer', 'garlic', 'mushroom', 'banana', 'butter', 'rice']",221,24.1,7.2,45.3,4,4.3
+181,Grilled Pasta,"['corn', 'paneer', 'peas', 'ginger', 'cheese', 'butter']",535,11.3,9.6,11.9,4,4.6
+182,Grilled Soup,"['cheese', 'mushroom', 'corn', 'garlic', 'zucchini']",213,25.3,17.5,21.6,2,4.8
+183,Savory Salad,"['soy sauce', 'egg', 'almonds', 'grapes', 'banana']",451,25.5,23.6,21.0,1,4.4
+184,Grilled Smoothie,"['fish', 'broccoli', 'bell pepper']",523,6.1,36.5,29.9,1,4.0
+185,Savory Pasta,"['yogurt', 'onion', 'apple', 'almonds', 'cheese', 'lettuce']",346,18.2,19.4,32.1,1,4.4
+186,Zesty Soup,"['bell pepper', 'spinach', 'onion', 'garlic', 'mushroom']",329,24.4,14.0,21.4,3,4.0
+187,Creamy Toast,"['broccoli', 'cheese', 'potato', 'egg', 'cream', 'mushroom']",369,21.2,29.2,61.4,3,3.6
+188,Spicy Wrap,"['honey', 'carrot', 'pasta', 'broccoli', 'butter']",311,27.5,31.6,44.8,3,5.0
+189,Fresh Pasta,"['onion', 'spinach', 'garlic', 'banana']",555,1.8,20.5,79.7,3,4.7
+190,Crispy Smoothie,"['fish', 'butter', 'yogurt', 'corn', 'cashew', 'lemon']",221,21.3,26.0,66.8,2,3.8
+191,Zesty Pasta,"['rice', 'potato', 'mushroom', 'honey']",276,28.5,8.7,78.6,2,4.5
+192,Fresh Salad,"['strawberry', 'zucchini', 'bread', 'almonds', 'corn', 'mushroom']",291,17.3,26.1,5.7,4,4.6
+193,Fresh Toast,"['egg', 'almonds', 'mushroom', 'cheese']",480,17.3,2.2,55.2,4,3.7
+194,Tangy Stir Fry,"['chili', 'zucchini', 'cream', 'garlic', 'yogurt', 'beans']",193,6.5,12.4,38.4,1,3.9
+195,Creamy Stir Fry,"['garlic', 'oats', 'cucumber', 'tofu']",277,29.7,30.9,72.8,3,4.1
+196,Tangy Bowl,"['zucchini', 'ginger', 'honey']",433,26.6,8.4,51.0,2,4.0
+197,Savory Bowl,"['carrot', 'egg', 'avocado', 'cream']",457,15.3,31.1,51.6,4,3.6
+198,Tangy Salad,"['potato', 'apple', 'spinach', 'pasta', 'yogurt']",457,10.0,20.6,76.9,1,4.5
+199,Creamy Stir Fry,"['garlic', 'pasta', 'honey', 'rice', 'spices']",519,15.2,31.0,56.2,1,3.6
+200,Grilled Casserole,"['cucumber', 'almonds', 'carrot']",461,3.6,5.3,29.1,3,4.9
+201,Zesty Salad,"['carrot', 'cashew', 'rice', 'peas']",295,7.7,25.4,73.7,3,3.8
+202,Creamy Casserole,"['corn', 'paneer', 'fish', 'potato', 'almonds']",548,7.3,26.1,75.9,1,3.5
+203,Savory Smoothie,"['almonds', 'lettuce', 'corn', 'bread', 'rice']",503,16.3,17.3,33.9,3,3.7
+204,Tangy Toast,"['bell pepper', 'pasta', 'spices']",163,1.0,38.7,45.5,3,3.8
+205,Creamy Toast,"['almonds', 'honey', 'strawberry', 'banana', 'chili']",584,27.6,16.6,26.2,4,3.5
+206,Fresh Stir Fry,"['honey', 'lemon', 'mushroom', 'tofu', 'carrot', 'cheese']",583,6.8,3.4,73.4,4,4.5
+207,Spicy Toast,"['strawberry', 'lemon', 'lettuce', 'milk', 'peas', 'ginger']",487,4.8,9.6,66.7,4,4.1
+208,Spicy Bowl,"['egg', 'cream', 'soy sauce', 'garlic', 'butter']",598,21.8,16.2,33.1,2,4.2
+209,Fresh Smoothie,"['egg', 'banana', 'lemon']",304,27.6,2.5,65.2,3,4.4
+210,Savory Curry,"['grapes', 'cheese', 'banana']",255,25.5,14.2,38.4,4,4.4
+211,Tangy Casserole,"['tomato', 'tofu', 'orange', 'olive oil']",415,10.4,33.7,8.3,4,3.6
+212,Tangy Curry,"['banana', 'carrot', 'egg', 'corn', 'almonds', 'spinach']",460,1.6,9.2,72.4,1,3.8
+213,Zesty Bowl,"['bell pepper', 'cucumber', 'lemon', 'honey']",410,18.0,27.7,19.4,4,4.6
+214,Zesty Toast,"['fish', 'potato', 'soy sauce', 'cucumber', 'lemon', 'banana']",246,27.6,25.8,43.5,1,3.5
+215,Tangy Toast,"['beans', 'cream', 'tofu', 'orange']",532,23.5,11.5,76.1,3,4.9
+216,Zesty Bowl,"['peas', 'almonds', 'strawberry', 'orange', 'spices', 'chicken']",350,25.5,28.4,17.6,1,4.5
+217,Grilled Pasta,"['oats', 'garlic', 'apple']",301,26.0,15.1,76.7,4,4.9
+218,Savory Toast,"['soy sauce', 'butter', 'paneer', 'tofu', 'corn']",480,28.9,6.9,45.3,2,4.7
+219,Grilled Casserole,"['butter', 'yogurt', 'orange', 'mushroom']",177,11.8,16.6,5.5,2,4.2
+220,Zesty Toast,"['cucumber', 'cheese', 'yogurt', 'grapes', 'rice', 'onion']",551,28.3,24.4,9.9,3,4.5
+221,Spicy Stir Fry,"['tomato', 'soy sauce', 'butter', 'milk']",556,12.5,8.3,55.3,4,4.0
+222,Zesty Pasta,"['ginger', 'spinach', 'peas', 'cucumber', 'soy sauce']",272,3.9,33.3,63.0,3,4.6
+223,Savory Casserole,"['paneer', 'garlic', 'milk']",403,9.8,13.3,69.9,1,4.8
+224,Tangy Wrap,"['zucchini', 'lemon', 'ginger', 'peas', 'cucumber', 'garlic']",347,5.0,13.1,36.8,3,4.7
+225,Crispy Wrap,"['rice', 'egg', 'carrot', 'soy sauce', 'honey']",207,5.6,29.7,12.8,2,4.7
+226,Fresh Bowl,"['cucumber', 'spices', 'bell pepper', 'corn', 'honey']",273,28.5,24.7,45.3,3,3.6
+227,Crispy Soup,"['fish', 'butter', 'milk', 'onion', 'bread', 'beans']",405,24.0,14.8,57.7,1,4.4
+228,Creamy Stir Fry,"['pasta', 'fish', 'peas', 'strawberry', 'apple']",476,28.9,35.7,78.2,4,4.3
+229,Tangy Curry,"['tofu', 'beans', 'strawberry', 'carrot']",454,19.8,39.8,63.1,3,4.6
+230,Fresh Stir Fry,"['ginger', 'banana', 'paneer', 'corn', 'onion', 'spinach']",186,6.1,15.0,53.5,1,4.8
+231,Fresh Pasta,"['cheese', 'egg', 'bread']",420,29.1,36.3,75.5,2,3.6
+232,Grilled Salad,"['bread', 'lettuce', 'cucumber', 'rice']",156,21.1,15.7,61.0,4,3.8
+233,Spicy Pasta,"['tofu', 'garlic', 'zucchini', 'lettuce', 'yogurt', 'egg']",334,27.9,9.2,16.5,3,4.3
+234,Crispy Casserole,"['zucchini', 'olive oil', 'egg', 'broccoli', 'lemon', 'spices']",312,23.8,38.0,39.4,3,3.7
+235,Creamy Wrap,"['spices', 'cream', 'chili', 'almonds', 'apple']",217,7.5,36.9,29.9,2,3.8
+236,Savory Casserole,"['spinach', 'banana', 'grapes', 'yogurt', 'honey', 'avocado']",348,18.1,17.3,11.6,3,4.1
+237,Fresh Toast,"['orange', 'lettuce', 'bell pepper', 'egg', 'strawberry']",590,6.1,10.7,9.1,2,3.8
+238,Crispy Toast,"['yogurt', 'grapes', 'orange', 'onion', 'corn']",579,9.9,29.6,64.6,2,4.5
+239,Fresh Soup,"['soy sauce', 'cream', 'ginger', 'orange', 'paneer', 'pasta']",441,21.0,7.0,46.9,4,4.4
+240,Spicy Curry,"['cream', 'cheese', 'almonds']",365,4.7,29.9,48.1,2,4.9
+241,Savory Pasta,"['strawberry', 'lettuce', 'spinach', 'spices', 'grapes']",337,22.1,24.4,22.1,2,4.3
+242,Grilled Bowl,"['garlic', 'tomato', 'rice', 'beans', 'banana']",429,28.5,8.4,24.4,2,4.3
+243,Crispy Salad,"['tofu', 'cashew', 'zucchini', 'avocado']",499,28.5,15.9,34.1,3,4.6
+244,Fresh Curry,"['tofu', 'tomato', 'bread', 'milk']",238,12.4,26.7,52.3,2,4.6
+245,Crispy Soup,"['tomato', 'garlic', 'chicken', 'yogurt', 'carrot', 'bread']",540,29.8,3.4,37.5,2,4.4
+246,Crispy Bowl,"['strawberry', 'almonds', 'spinach', 'orange', 'egg', 'pasta']",391,29.0,35.3,6.3,2,4.5
+247,Tangy Wrap,"['potato', 'almonds', 'corn']",544,1.9,11.7,55.5,2,4.6
+248,Savory Bowl,"['spices', 'paneer', 'broccoli', 'bread']",187,18.5,22.3,45.1,3,4.1
+249,Crispy Soup,"['paneer', 'soy sauce', 'bell pepper', 'broccoli']",158,27.7,3.8,53.1,2,3.7
+250,Crispy Wrap,"['paneer', 'chicken', 'honey', 'corn', 'peas']",450,29.1,39.8,51.4,1,4.7
+251,Zesty Pasta,"['milk', 'orange', 'lemon']",184,7.4,27.2,61.7,1,4.3
+252,Zesty Bowl,"['garlic', 'cucumber', 'lemon', 'grapes', 'spinach', 'onion']",157,17.4,26.8,48.9,1,4.3
+253,Crispy Pasta,"['carrot', 'lemon', 'almonds', 'apple', 'broccoli']",284,28.2,2.8,57.6,4,4.5
+254,Zesty Wrap,"['milk', 'orange', 'corn']",260,5.1,28.2,10.4,1,4.3
+255,Creamy Stir Fry,"['broccoli', 'rice', 'pasta', 'soy sauce']",170,22.6,17.8,74.6,1,4.4
+256,Fresh Stir Fry,"['cucumber', 'egg', 'potato', 'soy sauce', 'tomato', 'broccoli']",180,7.9,16.4,13.0,4,4.9
+257,Tangy Smoothie,"['strawberry', 'egg', 'banana', 'chicken']",554,29.5,22.8,64.0,3,4.9
+258,Creamy Soup,"['olive oil', 'banana', 'cheese', 'grapes', 'milk']",353,5.9,20.0,27.6,3,4.3
+259,Grilled Pasta,"['beans', 'corn', 'chicken', 'apple', 'almonds']",409,26.7,7.8,11.5,4,5.0
+260,Savory Soup,"['banana', 'tofu', 'cashew', 'onion', 'lemon']",296,3.6,28.4,62.4,3,4.8
+261,Fresh Curry,"['carrot', 'soy sauce', 'chili', 'cucumber', 'honey']",471,21.6,26.0,37.8,4,4.1
+262,Savory Toast,"['pasta', 'orange', 'butter']",514,19.5,13.4,34.6,2,4.4
+263,Tangy Bowl,"['avocado', 'garlic', 'strawberry', 'ginger']",406,26.7,27.1,54.6,3,4.7
+264,Crispy Toast,"['peas', 'butter', 'bread', 'yogurt', 'strawberry', 'spices']",542,14.0,27.2,40.5,4,4.0
+265,Spicy Pasta,"['banana', 'chili', 'peas', 'potato']",362,8.7,12.3,45.0,2,3.9
+266,Savory Toast,"['zucchini', 'butter', 'mushroom', 'corn', 'onion', 'tofu']",366,8.2,25.0,15.2,2,4.3
+267,Spicy Casserole,"['corn', 'spices', 'ginger', 'carrot']",509,3.0,7.2,34.3,1,4.1
+268,Savory Wrap,"['zucchini', 'cheese', 'onion', 'chili', 'lettuce']",355,8.4,33.6,64.8,4,4.3
+269,Spicy Smoothie,"['potato', 'cucumber', 'cheese', 'tofu', 'lemon', 'garlic']",192,4.1,6.0,45.9,4,4.6
+270,Zesty Toast,"['lemon', 'corn', 'tofu', 'yogurt', 'chili', 'honey']",477,1.0,29.3,77.0,1,4.0
+271,Savory Bowl,"['soy sauce', 'apple', 'chicken']",424,12.2,6.5,15.8,3,4.2
+272,Fresh Wrap,"['beans', 'mushroom', 'paneer', 'oats']",425,22.2,6.3,55.8,4,4.9
+273,Fresh Stir Fry,"['mushroom', 'spices', 'tofu', 'strawberry', 'paneer']",465,29.1,6.0,73.6,2,3.5
+274,Savory Wrap,"['bread', 'broccoli', 'garlic', 'almonds', 'butter']",228,26.7,9.5,64.6,4,3.6
+275,Spicy Toast,"['cheese', 'olive oil', 'cashew', 'potato', 'spices', 'garlic']",292,15.3,9.6,59.7,1,3.9
+276,Tangy Toast,"['onion', 'broccoli', 'spices', 'soy sauce', 'zucchini']",192,12.0,12.0,33.0,4,3.5
+277,Grilled Wrap,"['avocado', 'chicken', 'fish', 'honey']",308,16.8,21.9,76.2,3,3.7
+278,Grilled Casserole,"['chili', 'spices', 'oats', 'cashew', 'olive oil', 'avocado']",190,3.9,9.7,46.5,1,4.8
+279,Spicy Toast,"['lemon', 'cream', 'ginger', 'grapes']",411,14.9,28.7,46.6,1,3.5
+280,Spicy Curry,"['onion', 'paneer', 'cashew', 'bread']",254,26.1,13.2,14.2,2,5.0
+281,Savory Soup,"['banana', 'lettuce', 'mushroom']",563,19.9,3.5,5.4,4,3.8
+282,Crispy Soup,"['peas', 'paneer', 'cheese']",229,20.9,20.9,49.7,1,4.0
+283,Spicy Stir Fry,"['banana', 'paneer', 'soy sauce']",424,5.7,9.9,45.3,3,4.7
+284,Savory Smoothie,"['avocado', 'spices', 'lettuce', 'tofu', 'garlic', 'cucumber']",317,3.1,37.5,76.0,3,4.9
+285,Fresh Wrap,"['avocado', 'corn', 'egg', 'peas', 'chili']",350,25.5,14.6,27.9,3,4.7
+286,Tangy Smoothie,"['banana', 'honey', 'ginger', 'cashew', 'zucchini']",450,9.6,2.1,61.1,2,4.9
+287,Savory Stir Fry,"['bread', 'honey', 'grapes', 'tofu']",474,10.2,27.5,72.8,3,4.3
+288,Savory Stir Fry,"['pasta', 'chili', 'oats', 'yogurt']",540,28.6,36.5,30.8,2,4.4
+289,Creamy Wrap,"['tofu', 'cream', 'almonds', 'olive oil', 'zucchini', 'egg']",577,3.2,33.7,35.9,3,4.4
+290,Spicy Bowl,"['bread', 'ginger', 'honey', 'olive oil', 'broccoli', 'spices']",482,5.9,27.4,53.4,4,3.6
+291,Spicy Smoothie,"['banana', 'avocado', 'honey', 'ginger', 'lemon', 'tofu']",498,11.9,7.7,43.4,3,4.2
+292,Fresh Curry,"['bread', 'yogurt', 'zucchini', 'garlic', 'olive oil', 'banana']",479,22.2,5.4,17.1,3,3.7
+293,Spicy Salad,"['lettuce', 'milk', 'almonds', 'potato', 'cheese']",183,16.9,21.4,21.6,2,3.9
+294,Fresh Pasta,"['potato', 'spices', 'spinach', 'tofu', 'grapes']",308,27.0,29.5,67.6,4,4.8
+295,Spicy Casserole,"['chili', 'peas', 'cashew', 'paneer', 'mushroom', 'spinach']",507,3.7,5.8,19.6,4,3.9
+296,Grilled Pasta,"['strawberry', 'lettuce', 'milk', 'honey']",373,18.2,11.7,18.6,2,3.9
+297,Grilled Wrap,"['lettuce', 'spinach', 'onion']",523,18.8,10.8,65.0,4,4.0
+298,Creamy Casserole,"['banana', 'peas', 'lettuce', 'soy sauce', 'chili', 'yogurt']",583,15.0,39.6,68.9,3,4.4
+299,Fresh Wrap,"['orange', 'olive oil', 'lemon', 'spices', 'almonds']",272,1.9,13.2,68.9,3,4.4
+300,Zesty Smoothie,"['honey', 'apple', 'butter', 'cucumber', 'bell pepper']",179,28.3,19.6,74.9,4,3.8
+301,Grilled Casserole,"['tomato', 'strawberry', 'egg', 'lettuce', 'butter', 'almonds']",275,5.8,5.8,79.6,3,3.6
+302,Creamy Soup,"['paneer', 'corn', 'avocado', 'ginger', 'fish', 'apple']",194,26.8,8.6,39.6,4,4.0
+303,Zesty Curry,"['orange', 'ginger', 'spinach', 'milk', 'avocado', 'olive oil']",372,5.6,3.5,46.2,2,4.2
+304,Spicy Stir Fry,"['bell pepper', 'yogurt', 'almonds', 'chili']",209,3.9,13.0,26.8,2,4.2
+305,Savory Toast,"['apple', 'bell pepper', 'almonds', 'lemon', 'carrot']",382,7.0,32.5,10.1,2,4.8
+306,Fresh Curry,"['carrot', 'garlic', 'spices', 'bell pepper', 'broccoli']",463,6.5,13.9,12.4,1,4.6
+307,Fresh Curry,"['zucchini', 'paneer', 'mushroom']",461,21.2,30.1,59.4,3,4.7
+308,Zesty Casserole,"['chicken', 'bread', 'garlic']",178,21.9,5.6,41.5,2,3.6
+309,Creamy Casserole,"['mushroom', 'ginger', 'chicken', 'lettuce']",308,22.2,30.8,29.8,4,4.5
+310,Spicy Smoothie,"['butter', 'tofu', 'rice', 'pasta', 'almonds', 'strawberry']",491,8.7,3.7,14.6,4,3.6
+311,Savory Smoothie,"['fish', 'chicken', 'spices', 'yogurt', 'bread', 'cashew']",529,9.2,34.4,54.2,2,4.7
+312,Creamy Bowl,"['zucchini', 'grapes', 'spices']",486,7.9,27.2,12.5,2,4.1
+313,Tangy Salad,"['fish', 'cucumber', 'chili', 'oats', 'broccoli']",529,2.4,8.5,51.5,2,4.7
+314,Savory Wrap,"['tomato', 'zucchini', 'ginger']",239,17.6,15.6,72.5,4,4.9
+315,Creamy Toast,"['spinach', 'rice', 'zucchini', 'apple']",211,25.4,18.6,28.8,1,4.0
+316,Tangy Wrap,"['grapes', 'soy sauce', 'potato', 'butter', 'lemon']",156,5.5,25.6,38.8,2,4.8
+317,Grilled Toast,"['avocado', 'honey', 'chili', 'potato']",512,11.5,35.4,51.2,4,4.2
+318,Grilled Bowl,"['potato', 'soy sauce', 'olive oil']",220,13.4,5.5,27.9,4,4.9
+319,Zesty Casserole,"['yogurt', 'strawberry', 'tofu', 'pasta', 'chicken', 'carrot']",509,9.5,33.0,48.8,2,3.7
+320,Crispy Wrap,"['bell pepper', 'oats', 'almonds']",155,20.2,8.9,47.4,3,4.7
+321,Savory Casserole,"['corn', 'tomato', 'zucchini', 'paneer', 'avocado']",233,18.4,17.2,32.3,4,4.6
+322,Zesty Smoothie,"['corn', 'strawberry', 'grapes', 'paneer']",404,6.8,38.6,28.7,3,4.8
+323,Fresh Curry,"['chili', 'grapes', 'spices']",327,1.7,12.3,37.1,3,4.9
+324,Zesty Wrap,"['broccoli', 'egg', 'fish']",417,6.0,16.7,5.4,1,4.5
+325,Fresh Wrap,"['beans', 'ginger', 'soy sauce', 'mushroom']",414,9.5,34.3,23.5,4,4.4
+326,Savory Smoothie,"['carrot', 'corn', 'banana', 'olive oil', 'chili']",550,3.4,32.4,21.6,1,3.6
+327,Spicy Wrap,"['olive oil', 'garlic', 'potato', 'cucumber', 'cream']",571,25.5,26.7,60.5,2,4.3
+328,Tangy Soup,"['tomato', 'oats', 'avocado']",519,9.9,32.3,37.7,1,4.0
+329,Crispy Pasta,"['milk', 'peas', 'rice']",282,12.5,6.3,68.0,2,4.3
+330,Tangy Stir Fry,"['egg', 'fish', 'pasta', 'grapes', 'cheese', 'bell pepper']",235,15.2,28.5,15.1,3,4.0
+331,Tangy Stir Fry,"['cream', 'yogurt', 'olive oil', 'oats']",340,20.2,4.2,60.0,4,4.5
+332,Zesty Bowl,"['chili', 'beans', 'cashew', 'olive oil']",214,3.6,37.8,70.8,1,3.7
+333,Spicy Bowl,"['rice', 'orange', 'banana']",533,16.8,8.1,39.7,4,4.5
+334,Fresh Curry,"['potato', 'grapes', 'ginger']",549,6.4,17.8,31.9,3,5.0
+335,Fresh Toast,"['pasta', 'ginger', 'olive oil', 'egg', 'butter', 'tomato']",597,26.7,24.4,27.9,3,5.0
+336,Crispy Bowl,"['chicken', 'honey', 'cheese']",287,11.7,32.5,46.4,3,4.6
+337,Fresh Wrap,"['grapes', 'tomato', 'garlic', 'potato', 'broccoli']",525,13.9,27.8,18.2,3,4.4
+338,Crispy Wrap,"['cheese', 'yogurt', 'cashew', 'cucumber', 'bread', 'tomato']",210,8.6,8.9,50.5,3,3.6
+339,Spicy Curry,"['potato', 'cream', 'yogurt']",544,14.5,16.4,68.1,3,4.1
+340,Zesty Pasta,"['peas', 'egg', 'olive oil']",165,7.6,15.6,69.4,1,4.7
+341,Savory Pasta,"['orange', 'bread', 'olive oil']",321,8.8,3.1,15.5,4,3.7
+342,Zesty Casserole,"['yogurt', 'banana', 'corn']",563,2.8,28.0,45.4,1,4.0
+343,Tangy Wrap,"['chili', 'olive oil', 'carrot', 'garlic']",369,22.8,33.9,24.7,3,4.2
+344,Tangy Toast,"['honey', 'grapes', 'bell pepper', 'ginger', 'mushroom']",289,20.4,39.0,71.5,2,4.6
+345,Tangy Smoothie,"['oats', 'grapes', 'bread', 'honey']",418,3.5,7.0,10.7,2,4.3
+346,Crispy Stir Fry,"['mushroom', 'butter', 'apple', 'banana', 'bell pepper', 'peas']",182,11.0,37.0,10.7,3,3.9
+347,Zesty Stir Fry,"['lemon', 'tomato', 'garlic', 'honey']",284,16.7,6.3,6.4,3,4.1
+348,Fresh Curry,"['soy sauce', 'milk', 'rice']",514,29.2,17.6,43.0,3,4.2
+349,Fresh Smoothie,"['milk', 'cheese', 'chili', 'oats', 'peas', 'garlic']",445,18.1,3.7,7.3,4,4.5
+350,Creamy Bowl,"['egg', 'peas', 'spinach', 'strawberry', 'broccoli']",471,17.1,11.9,48.6,4,4.6
+351,Grilled Pasta,"['egg', 'orange', 'pasta', 'bell pepper', 'corn', 'banana']",189,25.4,13.9,35.4,1,4.2
+352,Fresh Wrap,"['olive oil', 'grapes', 'soy sauce', 'butter', 'onion']",404,24.7,28.8,49.3,4,3.8
+353,Zesty Casserole,"['beans', 'spices', 'broccoli', 'chili']",383,13.1,27.8,73.0,3,4.1
+354,Zesty Curry,"['lemon', 'lettuce', 'cheese']",411,16.5,31.2,46.4,4,4.4
+355,Fresh Stir Fry,"['mushroom', 'bread', 'chili', 'bell pepper', 'garlic']",334,26.1,23.9,45.8,2,4.3
+356,Fresh Smoothie,"['banana', 'apple', 'cashew', 'ginger', 'oats']",178,14.8,23.5,79.9,2,5.0
+357,Grilled Stir Fry,"['mushroom', 'cheese', 'peas', 'strawberry', 'beans', 'soy sauce']",405,26.6,39.2,40.4,3,4.3
+358,Spicy Bowl,"['spices', 'paneer', 'butter', 'chili', 'peas', 'potato']",589,14.8,27.5,63.1,4,3.9
+359,Grilled Stir Fry,"['banana', 'cashew', 'cream']",440,3.3,14.9,32.4,4,3.9
+360,Spicy Salad,"['almonds', 'rice', 'paneer', 'corn']",235,27.2,21.9,21.7,1,4.1
+361,Zesty Soup,"['milk', 'oats', 'tomato', 'chicken', 'almonds', 'apple']",338,21.7,28.6,62.9,1,4.5
+362,Crispy Curry,"['cucumber', 'zucchini', 'yogurt', 'beans']",230,15.6,5.6,60.0,2,4.4
+363,Spicy Casserole,"['cheese', 'butter', 'soy sauce', 'lemon']",280,27.1,27.1,26.8,3,3.7
+364,Zesty Wrap,"['cream', 'fish', 'strawberry', 'tomato']",545,24.2,11.4,39.9,2,4.1
+365,Crispy Wrap,"['bread', 'potato', 'onion', 'ginger', 'cream']",202,20.6,15.1,43.3,3,4.0
+366,Tangy Soup,"['milk', 'lemon', 'lettuce', 'zucchini', 'strawberry']",443,19.0,27.7,34.8,3,3.8
+367,Spicy Stir Fry,"['strawberry', 'tomato', 'cheese', 'egg', 'mushroom']",495,4.5,16.6,42.7,3,4.0
+368,Crispy Curry,"['paneer', 'onion', 'fish', 'milk', 'almonds']",520,23.0,33.9,54.7,3,4.5
+369,Creamy Toast,"['chili', 'carrot', 'banana']",209,6.0,23.2,68.6,4,4.7
+370,Crispy Curry,"['yogurt', 'carrot', 'milk', 'oats']",266,29.5,39.5,65.5,3,3.8
+371,Spicy Soup,"['avocado', 'soy sauce', 'pasta', 'broccoli', 'almonds', 'oats']",529,29.2,4.1,51.1,4,4.0
+372,Grilled Casserole,"['fish', 'rice', 'spinach', 'cheese', 'beans', 'oats']",410,24.4,26.4,17.4,3,4.7
+373,Zesty Curry,"['chicken', 'lettuce', 'cashew', 'grapes', 'mushroom', 'corn']",151,4.7,8.0,43.6,4,4.7
+374,Fresh Curry,"['spices', 'broccoli', 'butter']",172,13.3,34.3,38.5,4,4.4
+375,Savory Casserole,"['spinach', 'lemon', 'onion', 'apple', 'cashew']",589,29.7,34.4,18.4,2,4.2
+376,Fresh Bowl,"['zucchini', 'pasta', 'egg', 'peas', 'olive oil', 'soy sauce']",591,13.6,35.0,76.2,2,4.9
+377,Savory Wrap,"['cream', 'lemon', 'rice']",156,29.9,4.8,54.5,1,3.9
+378,Crispy Stir Fry,"['chili', 'honey', 'rice', 'beans']",275,19.2,20.7,77.6,2,4.5
+379,Savory Stir Fry,"['chili', 'garlic', 'egg']",173,25.2,11.2,60.2,2,3.7
+380,Spicy Casserole,"['banana', 'honey', 'onion']",391,8.5,38.9,41.3,3,4.6
+381,Creamy Pasta,"['butter', 'ginger', 'cucumber', 'olive oil']",336,27.4,3.9,31.9,1,3.6
+382,Fresh Stir Fry,"['peas', 'garlic', 'corn', 'olive oil', 'oats', 'broccoli']",346,27.5,10.5,21.4,2,4.6
+383,Creamy Soup,"['pasta', 'spices', 'almonds', 'broccoli', 'yogurt', 'carrot']",226,2.9,26.4,41.6,2,3.9
+384,Fresh Soup,"['orange', 'garlic', 'broccoli', 'egg', 'cheese', 'tofu']",241,12.3,17.3,9.7,4,4.4
+385,Creamy Soup,"['chicken', 'bell pepper', 'garlic', 'spinach', 'olive oil']",589,12.5,10.9,32.7,1,3.7
+386,Spicy Toast,"['bread', 'bell pepper', 'chili', 'cheese', 'cashew', 'carrot']",168,10.5,19.4,8.2,1,4.7
+387,Crispy Casserole,"['corn', 'fish', 'avocado']",433,9.0,32.4,20.5,1,3.9
+388,Crispy Stir Fry,"['paneer', 'grapes', 'avocado', 'spices', 'orange']",561,14.3,19.0,73.1,4,4.0
+389,Spicy Pasta,"['lemon', 'corn', 'bell pepper', 'yogurt']",515,26.3,34.6,32.1,1,4.7
+390,Zesty Stir Fry,"['corn', 'onion', 'grapes']",529,23.8,19.0,40.2,1,4.0
+391,Crispy Curry,"['spices', 'paneer', 'cheese', 'lettuce', 'oats']",485,19.1,6.5,39.1,4,4.2
+392,Fresh Stir Fry,"['almonds', 'banana', 'honey']",364,16.2,20.9,8.5,1,4.0
+393,Fresh Toast,"['cheese', 'apple', 'cream']",264,13.2,26.8,78.5,1,4.6
+394,Creamy Bowl,"['cheese', 'onion', 'banana']",314,13.0,5.9,29.3,3,3.8
+395,Fresh Soup,"['beans', 'cream', 'rice', 'pasta']",277,5.3,17.7,57.8,2,4.3
+396,Zesty Soup,"['carrot', 'rice', 'garlic', 'lettuce', 'pasta', 'tofu']",363,18.1,23.2,44.1,1,4.6
+397,Creamy Salad,"['spices', 'grapes', 'peas', 'carrot', 'egg']",518,23.0,2.0,67.2,4,4.3
+398,Grilled Stir Fry,"['orange', 'corn', 'grapes', 'cucumber', 'chili']",313,28.2,5.5,67.6,3,4.4
+399,Zesty Wrap,"['garlic', 'bread', 'tofu']",288,27.8,25.0,24.7,2,5.0
+400,Creamy Wrap,"['almonds', 'garlic', 'banana', 'ginger', 'egg']",572,17.3,25.5,45.8,2,4.5
